@@ -88,8 +88,8 @@ void Loadimg()//IMAGE Img_Bk, IMAGE Img_Pl
 	//加载子弹
 	loadimage(&img_bull, "F:/vs/repos/game/Image/bullet1.png");
 	//加载敌机图片 两种敌机 1 2
-loadimage(&img_enemy[0], "F:/vs/repos/game/Image/enemy1.png");//小
-loadimage(&img_enemy[1], "F:/vs/repos/game/Image/enemy2.png");//大
+    loadimage(&img_enemy[0], "F:/vs/repos/game/Image/enemy1.png");//小
+    loadimage(&img_enemy[1], "F:/vs/repos/game/Image/enemy2.png");//大
 
 }
 
